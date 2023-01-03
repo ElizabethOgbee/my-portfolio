@@ -17,8 +17,8 @@ const Projects = () => {
             <div className="hidden group-hover:block absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]">
             <h3 className='text-xl text-navyBlue tracking-wider text-center'> NFT Waitlist Dapp</h3>
             <div className="flex justify-center items-center flex-wrap gap-[1.5px] md:flex-row lg:flex-row lg:gap-2">
-            <Link href='./' className="mt-3 text-center text-sm px-2 py-2 rounded-lg bg-slate-400 text-navyBlue font-bold lg:text-lg cursor-pointer">Demo</Link>
-            <Link href='./' className="mt-3 text-center text:sm px-2 py-2 rounded-lg bg-slate-400 text-navyBlue font-bold lg:text-lg cursor-pointer">Repo</Link>
+            <Link href='https://my-app-six-liard.vercel.app/' className="mt-3 text-center text-sm px-2 py-2 rounded-lg bg-slate-400 text-navyBlue font-bold lg:text-lg cursor-pointer">Demo</Link>
+            <Link href='https://github.com/ElizabethOgbee/frontend-whitelist-dapp.git' className="mt-3 text-center text:sm px-2 py-2 rounded-lg bg-slate-400 text-navyBlue font-bold lg:text-lg cursor-pointer">Repo</Link>
             </div>
             </div>
             </div>
@@ -48,10 +48,8 @@ const Projects = () => {
             <div className="hidden group-hover:block absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]">
             <h3 className='text-xl text-navyBlue tracking-wider text-center'>Food Ordering App</h3>
             <div className="flex justify-center items-center flex-wrap gap-[1.5px] md:flex-row lg:flex-row lg:gap-2">
-            <Link href='./' />
-            <p className="mt-3 text-center text-sm px-2 py-2 rounded-lg bg-slate-400 text-navyBlue font-bold lg:text-lg cursor-pointer">Demo</p>
-            <Link href='./' />
-            <p className="mt-3 text-center text:sm px-2 py-2 rounded-lg bg-slate-400 text-navyBlue font-bold lg:text-lg cursor-pointer">Repo</p>
+            <Link href='https://my-portfolio-xi-lime-11.vercel.app/' className="mt-3 text-center text-sm px-2 py-2 rounded-lg bg-slate-400 text-navyBlue font-bold lg:text-lg cursor-pointer">Demo</Link>
+            <Link href='https://github.com/ElizabethOgbee/my-portfolio.git' className="mt-3 text-center text:sm px-2 py-2 rounded-lg bg-slate-400 text-navyBlue font-bold lg:text-lg cursor-pointer">Repo</Link>
             </div>
             </div>
             </div>
